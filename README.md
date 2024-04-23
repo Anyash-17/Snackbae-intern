@@ -1,4 +1,4 @@
-# Getting Started with Create React App
+# Getting Started with Snackbae.
 
 This project for internship purpose in snackbae.
 
