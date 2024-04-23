@@ -1,0 +1,30 @@
+.PayoutForm {
+  display: grid;
+  grid-template-columns: repeat(2, 1fr);
+  gap: 20px;
+  padding-top: 15px;
+  margin: 25px;
+}
+
+#Brand {
+  display: inline;
+}
+.bank_transfer {
+  font-family: Roboto;
+  font-size: 18px;
+  font-weight: 600;
+  line-height: 21.09px;
+  text-align: center;
+}
+@media only screen and (max-width: 425px) {
+  .PayoutForm {
+    display: flex;
+    flex-direction: column;
+  }
+}
+
+@media only screen and (min-width: 425px) and (max-width: 768px) {
+  .PayoutForm {
+    grid-template-columns: repeat(2, 1fr);
+  }
+}

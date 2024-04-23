@@ -1,0 +1,39 @@
+.main_content {
+  margin: 20px;
+  background-color: #f6f8ff;
+}
+.s-9 {
+  background-color: #f6f8ff;
+}
+.btn-9 {
+  padding: 10px;
+}
+.mid_section {
+  display: flex;
+  align-items: center;
+  gap: 1rem;
+}
+.mid_section > img {
+  margin: 1rem 0;
+}
+
+.brandlogo {
+  font-family: Inter;
+  font-size: 16px;
+  font-weight: 600;
+  line-height: 22px;
+}
+
+.b-4 {
+  display: flex;
+  gap: 1rem;
+}
+
+.main_content > .button-9 {
+  margin: 3rem 0 2rem 0;
+}
+
+@media only screen and (max-width: 768px) {
+  /* CSS styles for small screens */
+  /* For example, you can adjust the layout, font sizes, or hide certain elements */
+}

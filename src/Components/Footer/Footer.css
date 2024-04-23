@@ -1,0 +1,20 @@
+.Footer {
+  display: flex;
+  border: 0.8px solid gray;
+  border-radius: 10px;
+}
+.links {
+  color: rgba(16, 108, 246, 1);
+  font-family: Inter;
+  font-size: 18px;
+  font-weight: 600;
+  line-height: 30px;
+  text-align: left;
+}
+.footer_content {
+  font-family: Inter;
+  font-size: 18px;
+  font-weight: 400;
+  line-height: 28px;
+  text-align: left;
+}
