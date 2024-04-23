@@ -1,10 +1,10 @@
 {
   "files": {
-    "main.css": "/Snackbae/static/css/main.3dd690c1.css",
-    "main.js": "/Snackbae/static/js/main.4321c9b6.js",
-    "index.html": "/Snackbae/index.html",
-    "main.3dd690c1.css.map": "/Snackbae/static/css/main.3dd690c1.css.map",
-    "main.4321c9b6.js.map": "/Snackbae/static/js/main.4321c9b6.js.map"
+    "main.css": "/Snackbae-intern/static/css/main.3dd690c1.css",
+    "main.js": "/Snackbae-intern/static/js/main.4321c9b6.js",
+    "index.html": "/Snackbae-intern/index.html",
+    "main.3dd690c1.css.map": "/Snackbae-intern/static/css/main.3dd690c1.css.map",
+    "main.4321c9b6.js.map": "/Snackbae-intern/static/js/main.4321c9b6.js.map"
   },
   "entrypoints": [
     "static/css/main.3dd690c1.css",
